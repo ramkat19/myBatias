@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="TEServices/src/main/java"/>
+	<classpathentry kind="src" path="TEServices/src/test/java"/>
+	<classpathentry kind="lib" path="TEServices/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="TEServices/target/com.te.services-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="TEServices/target/classes"/>
+</classpath>
